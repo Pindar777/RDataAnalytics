@@ -4,8 +4,8 @@ Data analysis is the process of inspecting, cleansing, transforming, modeling an
 This repository is written in GNU R - mainly using the tidyverse and its gist.
 Several minimal working examples pursue the goal of showing **efficient** and **repoducible** techniques
 
-- to discover useful information,
-- to come to informing conclusions,
+- to discover useful information
+- to come to informing conclusions
 - to support decision-making
 - to show multiple facets and approaches
 
