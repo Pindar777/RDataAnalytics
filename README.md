@@ -1,6 +1,6 @@
 # RDataAnalytics
 
-Data analysis is the process of inspecting, cleansing, transforming, and modeling and visualizing data. 
+Data analysis is the process of inspecting, cleansing, transforming, modeling and visualizing data. 
 This repositiry is written in GNU R - mainly using the tidyverse and its gist.
 Several minimal working examples pursue the goal of showing **efficient** and **repoducible** techniques to 
 
